@@ -5,7 +5,7 @@
   </a>
 </p>
 <h1 align='center'>
-  recipeui - organized, cleaned, efficient recipes for everyone
+  recipeui: organized, cleaned, efficient recipes for everyone
 </h1>
 
 Kick off your cooking by reading recipes in a documentation styled format.

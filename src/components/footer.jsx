@@ -17,7 +17,7 @@ const Footer = ({ siteTitle }) => (
           </p>
         </div>
         <div className='column is-4'>
-          <h4 className='mb-3 is-size-4 has-text-weight-light has-text-grey'><span className='has-text-weight-medium'>View or Contribute</span> on GitHub</h4>
+          <h4 className='mb-3 is-size-4 has-text-weight-light has-text-grey'><span className='has-text-weight-medium'>Check it out!</span> on GitHub</h4>
           <p className='mb-2'>
             <a className='button' rel='noreferrer' href='https://github.com/ztbochanski/recipe-ui/' target='_blank'>
               <span className='icon is-large'>
@@ -38,6 +38,7 @@ const Footer = ({ siteTitle }) => (
             Home
           </p>
           </Link>
+
           <Link to='/dashboard'>
           <p className='subtitle'>
             <span className='mr-2 icon'>
